@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+}
+
+main {
+	background-color: blue;
+	width: 50%;
+	margin: 0 auto;
+	min-height: 100vh;
+	text-align: center;
+	font-family: 
+}
+
+.navigation {
+	text-align: center;
+}
+
+#me {
+	width: 70%;
+}
+
+h1, h2  {
+	font-family: 'Anton', sans-serif;
+}
+
+p	{
+	font-family: 'Play', sans-serif;
+}
